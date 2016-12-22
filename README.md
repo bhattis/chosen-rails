@@ -6,6 +6,8 @@ The `chosen-rails` gem integrates the `Chosen` with the Rails asset pipeline.
 
 ## Usage
 
+For documentation, usage, and examples, see: http://harvesthq.github.io/chosen/
+
 ### Install chosen-rails gem
 
 Include `chosen-rails` in Gemfile
